@@ -1,2 +1,11 @@
 # Linguistic Vitality and Endangerment: Languages Being Lost in the Philippines (2010)
-![Linguistic Vitality and Endangerment: Languages Being Lost in the Philippines (2010)](Phillippine Map.jpeg)
+![Linguistic Vitality and Endangerment: Languages Being Lost in the Philippines (2010)](https://github.com/alisonbautista46/PhilippineMap/blob/main/Phillippine%20Map.jpeg)
+
+
+Dialects are becoming a lost art, often marginalized and risking extinction in our current era of globalization. The subtleties embedded in ancestral stories, traditional practices, and land-based knowledge are frequently lost in translation. Linguistic loss moves us toward a homogenization of human culture, diminishing the richness of individual experiences and narrowing our collective intellectual landscape. Preserving endangered languages is essential for maintaining cultural diversity and giving people a deeper sense of belonging by connecting them to their roots.
+
+As a first-generation descendant with roots in the Visayas region of the Philippines, I experience the disconnect from my elders when I cannot communicate with them in their dialect, Bisaya. I practice Tagalog, the country's primary language, but I never learned my family's regional dialect because it wasn't considered as important as knowing English. While knowing English has helped me communicate with a wider range of people, I feel disconnected from my own communities.  The map titled Linguistic Vitality and Endangerment: Languages Being Lost in the Philippines shows that rural regions are the most vulnerable to losing their languages and dialects. My ancestors are rice and sugar cane farmers in one of these rural regions, and I grew up hearing their stories about the land. My ancestral knowledge is being forgotten in the wake of globalization, and preserving it by bringing back traditions using their Visayan name, cooking the same meals as my grandparents, and upholding their farming practices are my forms of resistance.
+
+
+The data is taken from multiple sources, including the [Endangered Languages Project](https://www.endangeredlanguages.com/#/5/11.215/135.395/0/100000/0/low/mid/high/dormant/awakening/unknown), the 2010 Census of Population and Housing from the [Philippine Statistics Authority](https://psa.gov.ph/), and [DIVA-GIS](https://diva-gis.org/).
+
